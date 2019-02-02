@@ -4,4 +4,4 @@ This projects includes current popular authentication protocols:
   Kerbose Architecture:
   Two main service and cryptography foundation
   Kerbose Diagram:
-Main workflow and details of messages in the workflow
+  Main workflow and details of messages in the workflow
